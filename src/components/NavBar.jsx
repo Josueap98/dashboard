@@ -13,6 +13,7 @@ const listaURL = [
   {ruta:'', nombreRuta:'Peticiones', icon:<IoMdContacts size={'20px'}/>},
   {ruta:'/pokemon', nombreRuta:'Pokemon', style: 'pl-12'},
   {ruta:'/dragon', nombreRuta: 'DragonBall', style: 'pl-12'},
+  {ruta:'/marvel', nombreRuta: 'Marvel', style: 'pl-12'},
   {ruta:'/acerca', nombreRuta:'Acerca', icon:<IoIosInformationCircleOutline size={'20px'}/>}
 ]
 

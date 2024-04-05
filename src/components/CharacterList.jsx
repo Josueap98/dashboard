@@ -23,6 +23,3 @@ const CharacterList = ({ datos }) => {
 };
 
 export default CharacterList
-
-//`http://gateway.marvel.com/v1/public/comics?ts=1&apikey=${apiKey}&hash=8b2e087a1e94b15d2a81bcdaf05e56bf`
-//`https://gateway.marvel.com/v1/public/characters?ts=1&apikey=15803cbbf2205a5627dc8ed41df2962d&hash=8b2e087a1e94b15d2a81bcdaf05e56bf`
